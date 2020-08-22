@@ -14390,6 +14390,12 @@
     "CSharpLanguageVersion": 800
   },
   "RootNamespace": "LanguageFeatures",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/home/galina/Документы/c#/book_PRO_ASPNETCORE_MVC_2/LanguageFeatures/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
